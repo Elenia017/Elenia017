@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Elenia017
 - 👀 I’m interested in Manual and Automation Testing
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on new and existing applications.
 - 📫 How to reach me elenia17@gmail.com
 
